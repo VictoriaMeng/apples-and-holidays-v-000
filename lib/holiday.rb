@@ -62,7 +62,6 @@ def all_supplies_in_holidays(holiday_hash)
       holiday_text = holiday.to_s.capitalize
       puts "  #{holiday_text}: "
     end
-
   end
 end
 
